@@ -9,7 +9,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="h-screen bg-cover bg-center flex items-center justify-center text-white"
-            style={{ backgroundImage: "url('/public/images/h2b.jpg')" }}
+            style={{ backgroundImage: "url('/Hotel_Booking/public/images/h2b.jpg')" }}
           >
             <div className="bg-black bg-opacity-50 p-6 text-center rounded">
               <h1 className="text-5xl font-bold">Welcome to Galaxy Lounge</h1>
