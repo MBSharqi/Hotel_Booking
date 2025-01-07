@@ -12,7 +12,8 @@ import Contact from "./pages/Contact";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Hotel_Booking/">
+      
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
